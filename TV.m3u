@@ -41,3 +41,6 @@ https://stream6.nadaje.com:35308/live/stream-1/chunklist_w1062911391.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="Echo24" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Echo24
 https://insysgo.live.e57-po.insyscd.net/echo24.720.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="Polsat HD" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Polsat HD
+http://207.110.52.61:8080/s//hls/5/9584/polsat_266/1/1/index.m3u8

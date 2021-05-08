@@ -131,7 +131,7 @@
          id="state-bg"
          fill="url(#state-fill)"
          fill-rule="nonzero"
-         style="fill:#ff5555" />
+         style="fill:#ff6666" />
       <text
          fill="#010101"
          fill-opacity="0.3"

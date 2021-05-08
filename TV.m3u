@@ -31,3 +31,12 @@ http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Jasło" tvg-name="TV Jasło" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",TV Jasło
 https://cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8?conn_id=08174840871427000291
+
+#EXTINF:-1 tvg-id="Truso TV" tvg-name="Truso TV" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Truso TV
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Wielkopolska" tvg-name="TV Wielkopolska" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",TV Wielkopolska
+https://stream6.nadaje.com:35308/live/stream-1/chunklist_w1062911391.m3u8
+
+#EXTINF:-1 tvg-id="Echo24" tvg-name="Echo24" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Echo24
+https://insysgo.live.e57-po.insyscd.net/echo24.720.smil/manifest.m3u8

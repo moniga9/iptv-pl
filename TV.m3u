@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="4Fun TV" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",4Fun TV
+#EXTINF:-1 tvg-id="1" tvg-name="4Fun TV" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="MUSIC",4Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="TV Republika" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-republika.png" tvg-country="PL" tvg-url="" group-title="",Telewizja Republika

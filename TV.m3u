@@ -9,7 +9,7 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="Telewizja Pogranicze" tvg-name="Telewizja Pogranicze" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Telewizja Pogranicze
 http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TV Republika" tvg-name="TV Republika" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Telewizja Republika
+#EXTINF:-1 tvg-id="TV Republika" tvg-name="TV Republika" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-republika.png" tvg-country="PL" tvg-url="" group-title="",Telewizja Republika
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
 
 #EXTINF:-1 tvg-id="Telewizja Toruń" tvg-name="Telewizja Toruń" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",Telewizja Toruń
@@ -17,5 +17,3 @@ http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 
 #EXTINF:-1 tvg-id="4Fun TV" tvg-name="4Fun TV" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",4Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
-
-#EXTINF:-1 tvg-id="4Fun FIT&DANC" tvg-name="4Fun FIT&DANC" tvg-language="Polish" tvg-logo="" tvg-country="PL" tvg-url="" group-title="",4Fun FIT&DANC

@@ -1,8 +1,8 @@
 # IPTV PL
 Własna lista Kanałow Telewizji
 
-[![Aktualna wersja](https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/extras/badge.svg)](https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/Adblock_Reloaded_PL.txt)
-[![Zasubskrybuj](https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/extras/sub.svg)](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fmoniga9%2FAdblock-Reloaded-PL%2Fmain%2FAdblock_Reloaded_PL.txt&amp;title=Adblock%20Reloaded%20PL)
+[![Wersja](https://raw.githubusercontent.com/moniga9/iptv-pl/main/extras/ver.svg)]()
+[![Download](https://raw.githubusercontent.com/moniga9/iptv-pl/8fa268ca45f1b6a15bcec97e1c43c6a75beacd82/extras/download.svg)]()
 
 ### Lista zmian
 
